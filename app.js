@@ -35,6 +35,4 @@ color2.addEventListener("input", setGradient);
 setGradient();
 btnRandomizer.addEventListener("click", randomize);
 
-console.log(color1.value);
-
 
